@@ -22,8 +22,8 @@ We organized this folder into 6 sections :
 - evaluation : we used different metrics (bleurt, bert, meteor and llm as judge) to evaluate the quality of the retrieved context
 - examples : demo notebooks to understand the main functions used by the system
 
-TO DO 
+<!-- TO DO 
 bleurt checkpoint
 bert model type
 stocker online les db
-expliquer différence entre rag.py et main.py
+expliquer différence entre rag.py et main.py -->
