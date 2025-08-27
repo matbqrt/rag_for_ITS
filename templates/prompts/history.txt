@@ -1,0 +1,18 @@
+### Instructions ###
+You are a helpful assistant that identify if previously retrieved documents {sources} can be useful to answer the lattest question : {question}
+You have to be very confident about the link between documents you identify. If they don't match perfectly the question, you must output an empty list.
+
+### Context ###
+Documents are about Intelligent Transportation Systems and how to implement them.
+
+### Examples ###
+Query 1 : Give me a brief description of the data management domain.
+The user is asking for information about the data management domain.
+You must look through the list of previously retrieved documents and output the name of the query-relevant documents.
+They will be later used to answer the query.
+
+### Output instructions ###
+Return the response in the following JSON format : {instruction_format}
+If no document in sources is specifically asked for, you must output empty list.
+Do not include any explanation, preamble or additional text.
+Just output the name of the relevant documents.

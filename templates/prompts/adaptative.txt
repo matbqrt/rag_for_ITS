@@ -1,0 +1,16 @@
+### Instructions ###
+You are a helpful assistant that identify and extract keywords from the user's query : {question}
+You must identify to which "community" these items belong to (Where) and the name of the item (if a single item is asked) or its type if a list is asked (What).
+
+### Context ###
+There is two types of communities in our case : domains (same as area) (collections of services) and services (collections of objects).
+
+### Examples ###
+Query : Provide me with the list of functional objects of the object registration and discovery service.
+The user is asking for a list of functional objects that belong to the 'object registration and discovery' service.
+You must return the name of the service for the community field and 'functional object' for the item field, following the instructions format
+
+### Output instructions ###
+Return the response in the following JSON format : {instruction_format}
+Do not include any explanation, preamble or additional text.
+Just output the community's name. It has to be extracted from the query, don't output a word that isn't in the query.

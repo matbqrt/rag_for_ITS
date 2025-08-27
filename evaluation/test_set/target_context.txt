@@ -1,0 +1,118 @@
+This area addresses the operation of transportation system to minimize the environmental impact. It promotes a transportation system that balances accessibility, mobility, protection of human safety and environment. It covers all aspects of transportation system from optimizing traffic signals and ramp meters to managing HOV/HOT lanes, monitoring vehicle emissions and managing vehicle electric charging stations.
+The services related to the 'sustainable travel' domain are : st01: emissions monitoring, st02: eco-traffic signal timing, st03: eco-traffic metering, st04: roadside lighting, st05: electric charging stations management, st06: hov/hot lane management, st07: eco-lanes management, st08: eco-approach and departure at signalized intersections, st09: connected eco-driving, st10: low emissions zone management
+-----
+This area addresses activities that monitor and notify users and transportation network managers of weather and environmental conditions that have an impact on the road transportation network and its users.
+The services related to the 'weather' domain are : wx01: weather data collection, wx02: weather information processing and distribution, wx03: spot weather impact warning, wx04: roadway micro-prediction
+-----
+This area addresses the provision of both static and dynamic information about the transportation network to  users both prior to and during their trips.  It includes information about multi-modal options and transfers and the status of other transportation modes for use by the users.  It also includes personal mobility and multi-modal payment services.  Providing static and dynamic signage information directly to drivers through in-vehicle devices is also covered by this area.
+The services related to the 'traveler information and personal mobility' domain are : ti01: broadcast traveler information, ti02: personalized traveler information, ti03: en-route guidance, ti04: trip planning and payment, ti05: integrated multi-modal electronic payment, ti06: shared use mobility and dynamic ridesharing, ti07: in-vehicle signage, ti08: personal wayfinding, ti09: travel services information and reservation
+-----
+This area addresses the operation of transportation system to minimize the environmental impact. It promotes a transportation system that balances accessibility, mobility, protection of human safety and environment. It covers all aspects of transportation system from optimizing traffic signals and ramp meters to managing HOV/HOT lanes, monitoring vehicle emissions and managing vehicle electric charging stations.
+The services related to the 'sustainable travel' domain are : st01: emissions monitoring, st02: eco-traffic signal timing, st03: eco-traffic metering, st04: roadside lighting, st05: electric charging stations management, st06: hov/hot lane management, st07: eco-lanes management, st08: eco-approach and departure at signalized intersections, st09: connected eco-driving, st10: low emissions zone management
+-----
+This service package supports numerous services for scheduled and unscheduled maintenance and construction on a roadway system or right-of-way.  Maintenance services include landscape maintenance, hazard removal (roadway debris, dead animals), routine maintenance activities (roadway cleaning, grass cutting), and repair and maintenance of both ITS and non-ITS equipment on the roadway (e.g., signs, traffic controllers, traffic detectors, dynamic message signs, traffic signals, CCTV, etc.).  Environmental conditions information is also received from various weather sources to aid in scheduling maintenance and construction activities.
+-----
+This service package supports the detection and enforcement of roadway control signals.  A common implementation of this capability is "red light enforcement" for signalized intersections.  Information documenting a vehicle entering the intersection when the light is red is captured and conveyed to an enforcement agency. This service package is a logical predecessor to "Intersection Safety Warning" and "Intersection Collision Avoidance", where the signal violation detection is also used to reduce the likelihood of a traffic accident.  This same relationship also exists to "Mixed Use Warning Systems" and "Automated Non-Vehicular Road User Protection", since pedestrians, bicyclists, and other non-vehicle traffic may be threatened by signal violations.
+-----
+'maint and constr center personnel' has kind : terminator, class : center and type : human. 
+-----
+'commercial vehicle obe' has the following security levels for the associated service packages : 
+	 Class 5 : Carrier Operations and Fleet Management
+	Class 5 : Fleet and Freight Security
+	Class 5 : HAZMAT Management
+	Class 5 : Incident Scene Pre-Arrival Staging Guidance for Emergency Responders
+	Class 5 : Vehicle Emergency Response
+	Class 4 : Commercial Vehicle Parking
+	Class 4 : CV Driver Security Authentication
+	Class 4 : Electronic Clearance
+	Class 4 : Electronic Driver Logs
+	Class 4 : Freight Administration
+	Class 4 : Freight Drayage Optimization
+	Class 4 : Freight Signal Priority
+	Class 4 : Freight-Specific Dynamic Travel Planning
+	Class 4 : Roadside CVO Safety
+	Class 4 : Smart Roadside and Virtual WIM
+	Class 3 : Special Vehicle Alert
+	Class 2 : Intelligent Access Program
+	Class 2 : Intelligent Access Program - Weight Monitoring
+	Class 2 : Intelligent Speed Compliance
+	Class 2 : International Border Electronic Clearance
+	Class 1 : Road Weather Information for Freight Carriers
+	Class 1 : Roadside HAZMAT Security Detection and Mitigation 
+-----
+The 12 domains of the reference architecture are the following : commercial vehicle operations, data management, maintenance and construction, parking management, public safety, public transportation, sustainable travel, support, traveler information and personal mobility, traffic management, vehicle safety, weather.
+-----
+The 22 services involved in the commercial vehicle operations are the following : cvo01: carrier operations and fleet management, cvo02: freight administration, cvo03: electronic clearance, cvo04: cv administrative processes, cvo05: commercial vehicle parking, cvo06: freight signal priority, cvo07: roadside cvo safety, cvo08: smart roadside and virtual wim, cvo09: freight-specific dynamic travel planning, cvo10: road weather information for freight carriers, cvo11: freight drayage optimization, cvo12: hazmat management, cvo13: roadside hazmat security detection and mitigation, cvo14: cv driver security authentication, cvo15: fleet and freight security, cvo16: electronic driver logs, cvo17: intelligent access program, cvo18: intelligent access program - weight monitoring, cvo19: intelligent speed compliance, cvo20: international border registration, cvo21: international border electronic clearance, cvo22: international border coordination.
+-----
+The 22 services involved in the commercial vehicle operations are the following : cvo01: carrier operations and fleet management, cvo02: freight administration, cvo03: electronic clearance, cvo04: cv administrative processes, cvo05: commercial vehicle parking, cvo06: freight signal priority, cvo07: roadside cvo safety, cvo08: smart roadside and virtual wim, cvo09: freight-specific dynamic travel planning, cvo10: road weather information for freight carriers, cvo11: freight drayage optimization, cvo12: hazmat management, cvo13: roadside hazmat security detection and mitigation, cvo14: cv driver security authentication, cvo15: fleet and freight security, cvo16: electronic driver logs, cvo17: intelligent access program, cvo18: intelligent access program - weight monitoring, cvo19: intelligent speed compliance, cvo20: international border registration, cvo21: international border electronic clearance, cvo22: international border coordination.
+-----
+The 22 services involved in the commercial vehicle operations are the following : cvo01: carrier operations and fleet management, cvo02: freight administration, cvo03: electronic clearance, cvo04: cv administrative processes, cvo05: commercial vehicle parking, cvo06: freight signal priority, cvo07: roadside cvo safety, cvo08: smart roadside and virtual wim, cvo09: freight-specific dynamic travel planning, cvo10: road weather information for freight carriers, cvo11: freight drayage optimization, cvo12: hazmat management, cvo13: roadside hazmat security detection and mitigation, cvo14: cv driver security authentication, cvo15: fleet and freight security, cvo16: electronic driver logs, cvo17: intelligent access program, cvo18: intelligent access program - weight monitoring, cvo19: intelligent speed compliance, cvo20: international border registration, cvo21: international border electronic clearance, cvo22: international border coordination.
+-----
+The 4 services needed for the weather area are the following : wx01: weather data collection, wx02: weather information processing and distribution, wx03: spot weather impact warning, wx04: roadway micro-prediction.
+-----
+The 2 essential services involved in the data management area are the following : dm01: its data warehouse, dm02: performance monitoring.
+-----
+The 26 primary services that support traffic management are the following : tm01: infrastructure-based traffic surveillance, tm02: vehicle-based traffic surveillance, tm03: traffic signal control, tm04: connected vehicle traffic signal system, tm05: traffic metering, tm06: traffic information dissemination, tm07: regional traffic management, tm08: traffic incident management system, tm09: integrated decision support and demand management, tm10: electronic toll collection, tm11: road use charging, tm12: dynamic roadway warning, tm13: standard railroad grade crossing, tm14: advanced railroad grade crossing, tm15: railroad operations coordination, tm16: reversible lane management, tm17: speed warning and enforcement, tm18: drawbridge management, tm19: roadway closure management, tm20: variable speed limits, tm21: speed harmonization, tm22: dynamic lane management and shoulder use, tm23: border management systems, tm24: tunnel management, tm25: wrong way vehicle detection and warning, tm26: signal enforcement.
+-----
+The 12 information flows associated with the carrier operations and fleet management service are the following : host commercial vehicle status, route restrictions, cv driver input, cv driver safety alert, trip log information, cv driver safety status, driver to fleet request, trip log, cv repair status, fleet to driver update, fleet status, fleet manager inquiry.
+-----
+The 58 processes related to the its roadwat equipment object are the following : 1.1.1.1: process traffic sensor data, 1.1.1.2: collect infrastructure sensor data, 1.1.1.3: process environmental sensor data, 1.1.1.4: manage data collection and monitoring, 1.1.1.5: provide sensor interface to other roadway devices, 1.1.1.7: process road user protection, 1.1.2.11: control dynamic lanes, 1.1.8: collect identifier data, 1.2.7.1: process indicator output data for roads, 1.2.7.2: monitor roadside equipment operation, 1.2.7.3: manage local signal priority and preemption requests, 1.2.7.5: process indicator output data for freeways, 1.2.7.6: provide intersection collision avoidance data, 1.2.7.8: provide device interface to other roadway devices, 1.2.7.9: process roadway information data, 1.2.7.10.1: control barrier systems, 1.2.7.11: control lighting system, 1.2.7.12: control roadway warning system, 1.2.7.13: provide device interface for field management stations, 1.2.7.16: process signal control conflict monitoring, 1.3.1.3: process traffic images, 1.3.1.4: detect wrong way vehicles, 1.5.4: detect vehicle emissions levels, 1.5.5: detect pollution and noise levels, 1.6.1.1: detect roadway events, 1.6.1.2.1: control hri traffic signals, 1.6.1.2.2: control hri warnings and barriers, 1.6.1.2.3: provide ssr device controls, 1.6.1.2.4: provide hsr device controls, 1.6.1.2.5: manage device control, 1.6.1.2.6: maintain device state, 1.6.1.3: perform equipment self-test, 1.6.1.4.1: generate alerts and advisories, 1.6.1.4.2: provide closure parameters, 1.6.1.4.3: report alerts and advisories, 1.6.1.4.4: report hri status on approach, 1.6.1.5: detect hri hazards, 1.6.1.6.1: close hri on detection, 1.6.1.6.2: detect imminent vehicle/train collision, 1.6.1.7.1: control traffic volume at active hri, 1.6.1.7.2: close hri on command, 1.6.3.1: interact with wayside systems, 1.6.3.2: advise and protect train crews, 1.6.3.3: provide ats alerts, 1.6.5.1: provide interactive interface, 1.6.5.2: determine hri status, 1.6.5.3: maintain hri closure data, 1.7.2: manage signal enforcement on roadway, 5.7.6.1: control safeguard systems, 5.8.1: monitor emergency personnel movement, 5.8.2: detect incident scene intrusion, 5.8.3: provide incident scene intrusion alert, 9.2.6.2: control roadway automated treatment system, 9.3.1.3: monitor crew movement, 9.3.3.1: collect vehicle speed, 9.3.3.4: support vehicle speed enforcement, 9.3.4.1: detect work zone intrusion, 9.3.4.2: provide work zone intrusion alert.
+-----
+The 19 services of the vehicle safety are are the following : vs01: autonomous vehicle safety systems, vs02: v2v basic safety, vs03: situational awareness, vs04: special vehicle alert, vs05: curve speed warning, vs06: stop sign gap assist, vs07: road weather motorist alert and warning, vs08: queue warning, vs09: reduced speed zone warning / lane closure, vs10: restricted lane warnings, vs11: oversize vehicle warning, vs12: vulnerable road user safety, vs13: intersection safety warning and collision avoidance, vs14: cooperative adaptive cruise control, vs15: infrastructure enhanced cooperative adaptive cruise control, vs16: maneuver coordination, vs17: automated vehicle operations, vs18: management of electronic traffic regulations (metr), vs19: vulnerable road user clustering.
+-----
+The 27 physical objects that belong to the field class are the following : border inspection system, commercial vehicle check equipment, commercial vehicle inspector, connected vehicle roadside equipment, electric charging station, field, field maintenance equipment, field system operator, freight consolidation station, intermodal terminal, its roadway equipment, its roadway payment equipment, maint and constr field personnel, multimodal crossing equipment, other border inspection systems, other connected vehicle roadside equipment, other its roadway equipment, parking area equipment, parking operator, pathway communications unit, pathway equipment, potential obstacles, roadside communications unit, roadway environment, security monitoring equipment, traveler support equipment, wayside equipment.
+-----
+The ITS service focused on Eco-Driving is : st09: connected eco-driving.
+-----
+The 'st09: connected eco-driving' service supports Eco-Driving.
+-----
+The Connected Eco-Driving service package provides customized real-time driving advice to drivers so that they can adjust their driving behavior to save fuel and reduce emissions. Eco-driving advice includes recommended driving speeds, optimal acceleration, and optimal deceleration profiles based on prevailing traffic conditions, interactions with nearby vehicles, and upcoming road grades. The service package also provides feedback to drivers on their driving behavior to encourage drivers to drive in a more environmentally efficient manner. Finally, the service package may include vehicle-assisted strategies where the vehicle automatically implements the eco-driving strategy (e.g., changes gears, switches power sources, or reduces its speed in an eco-friendly manner).
+-----
+The following services are dedicated to traffic management: tm01: infrastructure-based traffic surveillance, tm02: vehicle-based traffic surveillance, tm03: traffic signal control, tm04: connected vehicle traffic signal system, tm05: traffic metering, tm06: traffic information dissemination, tm07: regional traffic management, tm08: traffic incident management system, tm09: integrated decision support and demand management, tm10: electronic toll collection, tm11: road use charging, tm12: dynamic roadway warning, tm13: standard railroad grade crossing, tm14: advanced railroad grade crossing, tm15: railroad operations coordination, tm16: reversible lane management, tm17: speed warning and enforcement, tm18: drawbridge management, tm19: roadway closure management, tm20: variable speed limits, tm21: speed harmonization, tm22: dynamic lane management and shoulder use, tm23: border management systems, tm24: tunnel management, tm25: wrong way vehicle detection and warning, tm26: signal enforcement
+-----
+The 'tm11: road use charging' service offers tools for road use charging.
+-----
+The following services are related to sustainable travel : st01: emissions monitoring, st02: eco-traffic signal timing, st03: eco-traffic metering, st04: roadside lighting, st05: electric charging stations management, st06: hov/hot lane management, st07: eco-lanes management, st08: eco-approach and departure at signalized intersections, st09: connected eco-driving, st10: low emissions zone management
+-----
+The following services contribute to sustainable practices : st01: emissions monitoring, st02: eco-traffic signal timing, st03: eco-traffic metering, st04: roadside lighting, st05: electric charging stations management, st06: hov/hot lane management, st07: eco-lanes management, st08: eco-approach and departure at signalized intersections, st09: connected eco-driving, st10: low emissions zone management
+-----
+The following services support sustainable initiatives : st01: emissions monitoring, st02: eco-traffic signal timing, st03: eco-traffic metering, st04: roadside lighting, st05: electric charging stations management, st06: hov/hot lane management, st07: eco-lanes management, st08: eco-approach and departure at signalized intersections, st09: connected eco-driving, st10: low emissions zone management
+-----
+The following services deal with sustainable development : st01: emissions monitoring, st02: eco-traffic signal timing, st03: eco-traffic metering, st04: roadside lighting, st05: electric charging stations management, st06: hov/hot lane management, st07: eco-lanes management, st08: eco-approach and departure at signalized intersections, st09: connected eco-driving, st10: low emissions zone management
+-----
+The diagram shows a comprehensive logistics system flowchart for freight drayage optimization. It features various components interconnected by red arrows, representing data flow and communication between different parts of the system.
+The key elements include:
+1. Freight DIstribution and Logistics Center
+2. Intermodal Customer System
+3. Intermodal Terminal
+4. Freight Equipment
+5. Fleet and Freight Management Center
+6. Commercial Vehicle OBE
+7. Commercial Vehicle Driver
+-----
+The diagram shows a comprehensive logistics system flowchart for roadside cvo safety. It features various components interconnected by red arrows, representing data flow and communication between different parts of the system.
+The key elements include:
+1. Commercial Vehicle Administration Center
+2. Fleet and Freight Management Center
+3. Commercial Vehicle Check Equipment
+4. Commercial Vehicle OBE
+5. Commercial Vehicle Driver
+6. Alerting and Advisory System
+
+-----
+The diagram shows a comprehensive logistics system flowchart for transit security. It features various components interconnected by red arrows, representing data flow and communication between different parts of the system.
+The key elements include:
+1. Emergency Management Center
+2. Transit Management Center
+3. Security Monitoring Equipment
+4. Transit Vehicle OBE
+5. Transit Management Center
+
+-----
+The archived data system object is linked to the payment administration center by the 'archive status' information flow.
+-----
+The basic vehicle object is linked to the light vehicle OBE by the 'host vehicle status' information flow.
+-----
+The alerting and advisory system is linked to the emergency management center by the following information flows: 'threat data for analysis', 'threat information', 'alerts and advisories' and 'threat support data'.
+-----
+The border inspection system is linked to the freight equipment object by the following information flows: 'container seal interrogation', 'request tag data', 'container manifest', 'container seal status' and 'tag data'.

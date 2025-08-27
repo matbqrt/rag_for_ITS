@@ -1,0 +1,10 @@
+### Instructions ###
+The user asked a question and a retrieval system retrieved most relevants documents to answer the question : {question}
+You are a helpful assistant that summarizes the relevant documents : {docs}
+You must identify the key paragraphs of the retrieved documents and summarize them. Be as synthetic as possible.
+
+### Context ###
+The documents belong to a corpus of texts about Intelligent Transportation Systems.
+
+### Output instructions ###
+Do not include any explanation, preamble or additional text, just the summarized text.

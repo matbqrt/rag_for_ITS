@@ -1,0 +1,10 @@
+langchain
+langchain-huggingface
+langchain-community
+langchain-ollama
+langchain-chroma
+pymongo
+sentence-transformers
+poppler-utils
+bert-score
+streamlit

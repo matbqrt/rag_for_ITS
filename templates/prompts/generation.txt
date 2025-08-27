@@ -1,0 +1,4 @@
+Answer the following question : {question}
+Use the documents from the context : {docs}
+Be as concise and relevant as possible. Don't add extra information, just adress the question directly 
+If a list of names is given in the context, make sure to return all the names.
